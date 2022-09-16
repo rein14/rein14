@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Richmond Nyamekye
 
 <!--
 **rein14/rein14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,6 @@ Here's what I do:
 - I occasionally write articles about topics i learn about on [Medium](https://buabajerry.medium.com)
 
 - I am currently building [Oval](https://oval.so) with my friends so i learn more about software engineering and intelligent systems. check ot out :)
-
 - I share my progress and dump my thoughts through my [tweets](https://twitter.com/jbuaba_)
 
 - I love to chat about Python, Data and Intelligent systems, APIs and Anime :P
