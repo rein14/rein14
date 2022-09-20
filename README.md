@@ -3,7 +3,6 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I'm life long learner. Learning anything that peaks my interest.
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with non profits
 - 📫 How to reach me: **richmondnyamekye14@gmail.com**
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
