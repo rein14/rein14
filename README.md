@@ -2,6 +2,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I'm life long learner. Learning anything that peaks my interest.
+- 🌱 I’m currently learning AWS and Python...
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: **richmondnyamekye14@gmail.com**
 <!-- 😄 Pronouns: ...
